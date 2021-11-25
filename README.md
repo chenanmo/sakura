@@ -11,6 +11,8 @@
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/mashirozx/Sakura/latest/dev.svg?style=flat-square&logo=git&color=important)](https://github.com/mashirozx/Sakura/commits/dev)
 [![](https://data.jsdelivr.com/v1/package/gh/moezx/cdn/badge)](https://www.jsdelivr.com/package/gh/moezx/cdn)
 
+在sakura大佬的基础上更改一些符合自己需要的花里胡哨的功能，试图让大佬的代码更加凌乱一些。
+
 在 Louie 基于 Fuzzz 的 [Akina](http://www.akina.pw/themeakina) 主题修改的主题 [Siren](https://github.com/louie-senpai/Siren) 基础上三次修改 =.=
 
 两位前辈做得已经很棒了，或许我所做的只是把他们的代码弄得凌乱不堪吧 :)
